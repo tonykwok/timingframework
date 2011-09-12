@@ -61,7 +61,7 @@
       <artifactId>promises</artifactId>
       <version>4.0.1</version>
       <type>jar</type>
-      <scope>provided</scope>
+      <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>junit</groupId>
